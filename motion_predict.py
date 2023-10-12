@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 27 16:56:50 2022
-
-@author: AdrienAntoinette
-"""
 
 import argparse
 import torch
